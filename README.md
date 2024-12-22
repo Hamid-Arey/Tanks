@@ -1,2 +1,2 @@
 You are a tank
-Destry the others
+Destroy the others
