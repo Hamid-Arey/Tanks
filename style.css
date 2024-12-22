@@ -1,0 +1,23 @@
+html {
+  height: 100%;
+  width: 100%;
+  
+}
+#canvasserie{
+  border: 1px solid #d3d3d3;
+  justify-content: center;
+}
+#Start {
+  display: inline-block;
+  color: white;
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  border: none;
+  font-size: 40px;
+  font-family: 'Monomaniac One', sans-serif;
+  margin: auto;
+  position: abloslute;
+  top: 50%;
+}
